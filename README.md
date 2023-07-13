@@ -1,5 +1,8 @@
 # Retail Sales Analysis using DAX in Power BI
 
+![Dashboard Preview](https://github.com/mbilalazeem/Retail-Sales-Analysis-using-DAX-in-Power-BI/blob/main/Retail%20Sales%20Analysis%20using%20DAX%20in%20Power%20BI.PNG)
+
+
 ## Project Overview
 This project uses Data Analysis Expressions (DAX) in Power BI to conduct a detailed sales analysis on a fictitious retail demo dataset. It features various calculated columns and measures, such as profit, sales count, and profit margin ratio. The project also delves deep into sales by category and year, and investigates year-on-year change in sales.
 
